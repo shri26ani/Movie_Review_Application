@@ -10,3 +10,11 @@ RESTful API for communication between frontend and backend
 Spring Data MongoDB for database interaction
 Axios for making HTTP requests from React to the backend
 CSS/Bootstrap for styling the frontend
+
+# Features
+User Authentication: Users can sign up, log in, and manage their profiles.\
+Movie Browsing: Users can browse a list of movies with details such as title, genre, and release date.\
+Review Submission: Logged-in users can submit reviews for movies, including ratings and comments.\
+Review Display: All reviews for a movie are displayed on the movie’s detail page, allowing users to read and interact with others' reviews.\
+Responsive Design: The frontend is fully responsive, ensuring a seamless experience across different devices.\
+Data Management: MongoDB Atlas is used for storing user data, movie details, and reviews, with MongoDB Compass for easy database management.
